@@ -1,12 +1,13 @@
 
 /* Your CSS Code here. */
-
 .holder{
 	display:flex;
 	width: 100vw;
     flex-wrap: wrap;
 	justify-content:center;
 	align-items:center;
+	background-color:yellow;
+	height:300px;
 }
 
 .box-1{
